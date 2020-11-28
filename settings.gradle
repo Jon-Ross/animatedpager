@@ -1,0 +1,3 @@
+include ':animatedpager'
+include ':app'
+rootProject.name = "AnimatedPager"
